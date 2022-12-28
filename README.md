@@ -1,8 +1,8 @@
 # Welcome / bem vindos
 
 
-#### Sou Pós Graduado em Engenharia de Software; 
-#### Trabalho na área de tecnologia mais de 5 anos;
+#### I am Post Graduated in Software Engineer; 
+#### I work in the technology area for more than 5 years;
 
 ### Stacks:
 
@@ -12,11 +12,14 @@
 * Database - SQL server, MongoDB, SQl lite, PostgreSQL, MySql  e NoSQL.
 * DevOps - Docker, Jenkins, Git, Github e Azure, Bitbucket, Jira, Heroku, Vercel.
 
-https://icons8.com/icon/108786/linkedin-2
+
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?jjunieko=anuraghazra&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jjunieko&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjunieko&layout=compact"/>
 </div>
+
+[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5)](https://www.linkedin.com/in/jo%C3%A3o-j%C3%BAnior-72a6a2172/)
 
 
 
