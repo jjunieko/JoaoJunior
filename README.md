@@ -12,7 +12,7 @@
 * Database - SQL server, MongoDB, SQl lite, PostgreSQL, MySql  e NoSQL.
 * DevOps - Docker, Jenkins, Git, Github e Azure, Bitbucket, Jira, Heroku, Vercel.
 
-
+<p></p>
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jjunieko&show_icons=true&theme=radical"/>
