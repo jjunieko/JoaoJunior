@@ -6,10 +6,10 @@
 
 ### Stacks:
 
-* Mobile - React Native, Flutter, Ionic, JavaScript, TypeScript, AndroidSDK, AppleStore, firebase. 
-* WEb/Front End - React, Angular e PHP.
-* Back End - NodeJs, PHP, Express, Laravel, APis Rest.
-* Database - SQL server, MongoDB, SQl lite, PostgreSQL, MySql  e NoSQL.
+* Mobile - React Native, Flutter, Ionic, . 
+* WEb/Front End - React, Angular , PHP, JavaScript e TypeScript.
+* Back End - NodeJs, PHP, Express, Laravel, Java, Springboot , Serviles e  APis Rest.
+* Database - SQL server, MongoDB, SQl lite, PostgreSQL, MySql, firebase  e NoSQL.
 * DevOps - Docker, Jenkins, Git, Github e Azure, Bitbucket, Jira, Heroku, Vercel.
 
 <p></p>
